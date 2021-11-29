@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pavel-aln
-- 👀 I’m interested in PS automation, Inforation Security, ESport :D
+- 👀 I’m interested in powershell, Information Security, ESport :D
 - 🌱 I’m currently learning PS, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
